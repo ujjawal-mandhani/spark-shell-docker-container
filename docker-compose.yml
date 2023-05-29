@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+  scala-app:
+    build:
+      context: .
+    volumes:
+      - "./Volume/:/home"
+    mem_limit: 3g
+    command: spark-shell --driver-memory 1g --executor-memory 1g --packages org.postgresql:postgresql:42.1.1
