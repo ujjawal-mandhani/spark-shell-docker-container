@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/scala_spark_submit/target/scala-2.12/spark_submit_project_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sourcecode[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/scala_spark_submit/target/scala-2.12/classes/sourcecode[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sourcecode/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/scala_spark_submit/target/scala-2.12/classes/sourcecode/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sourcecode/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/scala_spark_submit/target/scala-2.12/classes/sourcecode/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sourcecode/codes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/scala_spark_submit/target/scala-2.12/classes/sourcecode/codes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sourcecode/codes/code.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/scala_spark_submit/target/scala-2.12/classes/sourcecode/codes/code.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sourcecode/codes/code$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/scala_spark_submit/target/scala-2.12/classes/sourcecode/codes/code$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

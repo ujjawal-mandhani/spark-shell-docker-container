@@ -1,0 +1,5 @@
+name := "spark_submit_project"
+version := "1.0"
+scalaVersion := "2.12.14"
+libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.0"
+libraryDependencies += "org.apache.logging.log4j" % "log4j-core" % "2.14.1"
